@@ -1,0 +1,7 @@
+
+name: learn-python-with-jupyter
+channels:
+  - emscripten-forge
+  - conda-forge
+dependencies:
+  - xeus-python # A Jupyter kernel for Python
